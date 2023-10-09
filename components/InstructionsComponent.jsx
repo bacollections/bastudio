@@ -10,7 +10,7 @@ export default function InstructionsComponent() {
 				</h1>
 				<p>
 					Metaverse that take you to{" "}
-					<span>/web3</span>
+					<span>WEB3</span>
 				</p>
 			</header>
 
@@ -24,29 +24,6 @@ export default function InstructionsComponent() {
 						<p>Canim Karim</p>
 					</div>
 				</a>
-				<a
-					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#templates"}
-				>
-					<div className={styles.button}>
-						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Pika</p>
-					</div>
-				</a>
-				<a
-					target={"_blank"}
-					href={"https://docs.alchemy.com/docs/create-web3-dapp"}
-				>
-					<div className={styles.button}>
-						<img
-							src="https://static.alchemyapi.io/images/cw3d/Icon%20Large/file-eye-01-l.svg"
-							width={"20px"}
-							height={"20px"}
-						/>
-						<p>Moka</p>
-					</div>
-				</a>
-			</div>
 		</div>
 	);
 }
