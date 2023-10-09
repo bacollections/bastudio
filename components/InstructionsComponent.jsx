@@ -6,11 +6,11 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					create<span>-web3-dapp</span>
+					bucak<span>studio</span>
 				</h1>
 				<p>
-					Get started by editing this page in{" "}
-					<span>/pages/index.js</span>
+					Metaverse that take you to{" "}
+					<span>/web3</span>
 				</p>
 			</header>
 
@@ -21,7 +21,7 @@ export default function InstructionsComponent() {
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Add Components</p>
+						<p>Canim Karim</p>
 					</div>
 				</a>
 				<a
@@ -30,7 +30,7 @@ export default function InstructionsComponent() {
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Explore Templates</p>
+						<p>Pika</p>
 					</div>
 				</a>
 				<a
@@ -43,7 +43,7 @@ export default function InstructionsComponent() {
 							width={"20px"}
 							height={"20px"}
 						/>
-						<p>Visit Docs</p>
+						<p>Moka</p>
 					</div>
 				</a>
 			</div>
