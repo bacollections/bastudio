@@ -56,7 +56,6 @@ export default function InstructionsComponent() {
 						alt="Alchemy Supercharged"
 					/>
 				</a>
-				</div>
 			</div>
 		</div>
 	);
